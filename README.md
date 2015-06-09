@@ -43,9 +43,9 @@ Examples of use
 
 - Input bus stop ID as per prompted
 
-<img src="Images/BusNo.png" alt="Bus Stop ID">
+<img src="Images/BusStopID.png" alt="Bus Stop ID">
 
-<img src="Images/BusNo2.png" alt="Bus Stop ID Inputted">
+<img src="Images/BusStopID2.png" alt="Bus Stop ID 2">
 
 - Input bus number(s) as per prompted
 <img src="Images/BusNo.png" alt="Bus No">
