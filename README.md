@@ -30,12 +30,12 @@ Installation
     2. Use Terminal for installation
 
 
-    $ cd httplib2-0.9.1 $ python setup.py install
+        $ cd httplib2-0.9.1 $ python setup.py install
 
 - run BusTracker.py
 
 
-    $ python BusTracker.py
+        $ python BusTracker.py
 
 
 Examples of use
