@@ -49,7 +49,7 @@ Examples of use
 <img src="Images/'BusNo.png'" alt="Bus No" width="230">
 
     - you will be asked for more bus numbers until you input '0', which means that you do not wish to track any more bus services
-<img src="Images/'BusNoEnd.png'" alt="Bus No End" width="230">
+<img src="Images/BusNoEnd.png" alt="Bus No End">
 
     - if you input any non-integer, you will be prompted to enter a valid bus number
 <img src="Images/'BusNoInvalid.png'" alt="Bus No Invalid" width="230">
