@@ -1,4 +1,6 @@
+
 """PART I: API Extraction"""
+
 import json
 import urllib
 from urlparse import urlparse
