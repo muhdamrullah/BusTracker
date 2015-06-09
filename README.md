@@ -48,15 +48,18 @@ Examples of use
 <img src="Images/BusStopID2.png" alt="Bus Stop ID 2">
 
 - Input bus number(s) as per prompted
+
 <img src="Images/BusNo.png" alt="Bus No">
 
     - you will be asked for more bus numbers until you input '0', which means that you do not wish to track any more bus services
+    
 <img src="Images/BusNoEnd.png" alt="Bus No End">
 
     - if you input any non-integer, you will be prompted to enter a valid bus number
 <img src="Images/BusNoInvalid.png" alt="Bus No Invalid">
     
     - if you input a bus number that does not go to that bus stop, you will be prompted to enter a bus service that is available
+
 <img src="Images/BusNoWrong.png" alt="Bus No Wrong">
 
     - if you input the same bus number again, you will be prompted to enter another bus number
